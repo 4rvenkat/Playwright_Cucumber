@@ -10,11 +10,12 @@
 "requireModule": ["ts-node/register"],
 "format": [
 "html:reports/cucumber-report.html",
-"json:reports/cucumber-report.json"
-
+"json:reports/cucumber-report.json",
+"allure-cucumberjs/reporter"
 ],
 "publish": true,
-"parallel": 1,
+"parallel": 2,
 "tags": "@smoke"
-}
+},
+"publishQuiet": true
 }

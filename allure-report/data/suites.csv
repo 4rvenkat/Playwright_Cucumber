@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","13625","login with valid credentials","","Sun Aug 24 10:15:41 EDT 2025","passed","Sun Aug 24 10:15:55 EDT 2025","","","",""
+"","13698","login with valid credentials","","Sun Aug 24 10:15:41 EDT 2025","passed","Sun Aug 24 10:15:55 EDT 2025","","","",""
+"","12010","login with valid credentials","","Sun Aug 24 10:15:55 EDT 2025","passed","Sun Aug 24 10:16:07 EDT 2025","","","",""
