@@ -1,0 +1,226 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "login-feature;login-with-valid-credentials",
+        "keyword": "Scenario Outline",
+        "line": 11,
+        "name": "login with valid credentials",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1199181400
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "i open the application \"https://playwrightautomationtesting.blogspot.com/2025/06/banking-application.html\"",
+            "match": {
+              "location": "src\\steps\\validate.ts:4"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3633719099
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "i enter \"SenthilSmartQAHub\" and \"demo\"",
+            "match": {
+              "location": "src\\steps\\validate.ts:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3105414000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "i click on login button",
+            "match": {
+              "location": "src\\steps\\validate.ts:25"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3048102699
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 434265900
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 3
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "login-feature;login-with-valid-credentials",
+        "keyword": "Scenario Outline",
+        "line": 12,
+        "name": "login with valid credentials",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1246062399
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "i open the application \"https://playwrightautomationtesting.blogspot.com/2025/06/banking-application.html\"",
+            "match": {
+              "location": "src\\steps\\validate.ts:4"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3616734600
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "i enter \"DebitUser\" and \"demo\"",
+            "match": {
+              "location": "src\\steps\\validate.ts:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3088561200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "i click on login button",
+            "match": {
+              "location": "src\\steps\\validate.ts:25"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3028083500
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 385725399
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 3
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "description": "",
+        "id": "login-feature;login-with-valid-credentials",
+        "keyword": "Scenario Outline",
+        "line": 13,
+        "name": "login with valid credentials",
+        "steps": [
+          {
+            "keyword": "Before",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 1197627499
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 5,
+            "name": "i open the application \"https://playwrightautomationtesting.blogspot.com/2025/06/banking-application.html\"",
+            "match": {
+              "location": "src\\steps\\validate.ts:4"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3788741699
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 6,
+            "name": "i enter \"CreditUser\" and \"demo\"",
+            "match": {
+              "location": "src\\steps\\validate.ts:16"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3085211200
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "i click on login button",
+            "match": {
+              "location": "src\\steps\\validate.ts:25"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3040633399
+            }
+          },
+          {
+            "keyword": "After",
+            "hidden": true,
+            "result": {
+              "status": "passed",
+              "duration": 481219399
+            }
+          }
+        ],
+        "tags": [
+          {
+            "name": "@smoke",
+            "line": 3
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "id": "login-feature",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "login Feature",
+    "tags": [],
+    "uri": "src\\features\\validate.feature"
+  }
+]
